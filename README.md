@@ -12,5 +12,5 @@ These are PROOF OF CONCEPT only. They're not perfect, but they're certainly a nu
 
 Oh, and there are plenty of DIE HARD references for Bruce Willis fans.
 
-![logo](periscope.png)
+![logo](diehard.jpg)
 
